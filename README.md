@@ -4,7 +4,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./2024-06-22%2018.06.21%20127.0.0.1%205b7bb7032cda.jpg)
+![](./screenshoot.jpg)
 
 ### Links
 
